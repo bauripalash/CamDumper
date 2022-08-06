@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hh"
+name = "cam_data_dumper"
 version = "0.1.0"
